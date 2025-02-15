@@ -204,6 +204,10 @@ Some will argue that the following skills and topics shouldn't be optional and a
 
 ### Git Repositories
 
+#### Trunk Based Development
+
+- [ ] Define release strategy
+
 #### CI
 
 - [ ] Is there CI for every project?
